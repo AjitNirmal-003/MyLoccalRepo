@@ -1,4 +1,6 @@
-p{
-    background-color: blue;
-    color: black;
+h1{
+   
+    -webkit-text-stroke: 2px solid;
+    -webkit-text-stroke-color: orangered;
+    color: orangered;
 }
