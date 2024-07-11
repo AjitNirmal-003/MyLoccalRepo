@@ -1,6 +1,27 @@
-h1{
-   
-    -webkit-text-stroke: 2px solid;
-    -webkit-text-stroke-color: orangered;
+.heading{
+    text-align: center;
+    width: 100%;
+    font-size: 100px;
+    font-weight: 700;
+    background-color: orange;
     color: orangered;
+
+
+}
+
+
+.heading:hover{
+    text-align: center;
+    width: 100%;
+    font-size: 100px;
+    font-weight: 700;
+    background-size: cover;
+    border-radius: 20px;
+    -webkit-text-stroke: 4px orangered;
+    cursor: pointer;
+    color: transparent;
+    background-color: orange;
+    box-shadow: inset -20px -20px 50px rgb(24, 23, 23);
+    box-shadow: 10px 10px 40px rgb(129, 63, 63);
+    
 }
